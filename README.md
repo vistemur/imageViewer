@@ -1,5 +1,11 @@
 # images preview app
 
+## Tech stack
+
+- `Swift`
+- `UIKit`
+- `MVVM`
+
 ## preview screen
 
 - asynchronys image loading
@@ -21,3 +27,9 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/58ad60da-a8c1-4441-a205-6b3cad332340" width="384" />
 </div>
+
+## libraries used
+
+Alamofire - network
+
+Kingfisher - image download and cache
