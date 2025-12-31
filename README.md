@@ -30,6 +30,6 @@
 
 ## libraries used
 
-Alamofire - network
+[Alamofire](https://github.com/Alamofire/Alamofire) - HTTP requests
 
-Kingfisher - image download and cache
+[Kingfisher](https://github.com/onevcat/Kingfisher) - image download and cache
